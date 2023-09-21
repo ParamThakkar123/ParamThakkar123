@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramthakkar123&show_icons=true&locale=en" alt="paramthakkar123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramthakkar123&" alt="paramthakkar123" /></p>
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paramthakkar123&theme=react-dark" width="100%"/>
