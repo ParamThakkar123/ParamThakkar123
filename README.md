@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramthakkar123&" alt="paramthakkar123" /></p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paramthakkar123&theme=react-dark" width="100%"/>
 
-![An image of @paramthakkar123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramthakkar123)(https://holopin.io/@paramthakkar123)
+![An image of @paramthakkar123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramthakkar123)
