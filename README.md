@@ -40,5 +40,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
-
-[![](https://visitcount.itsvg.in/api?id=Aditya-y9&icon=2&color=0)](https://visitcount.itsvg.in)
