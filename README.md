@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paramthakkar123" alt="paramthakkar123" /></a> </p>
 
-- 🔭 I’m currently studying **Data Structures and algorithms**
+- 🔭 I’m currently learning **So many things It's hard to list them down here!**
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, Javascript**
 
