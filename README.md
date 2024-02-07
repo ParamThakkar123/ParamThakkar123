@@ -42,9 +42,10 @@
 
 ![An image of @paramthakkar123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramthakkar123)
 
-[![ParamThakkar123's GitHub | Stats](https://stats.quine.sh/ParamThakkar123/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ParamThakkar123)
 [![ParamThakkar123's GitHub | Languages Over Time](https://stats.quine.sh/ParamThakkar123/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ParamThakkar123)
 [![ParamThakkar123's GitHub | Topics Over Time](https://stats.quine.sh/ParamThakkar123/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ParamThakkar123)
+
+[![ParamThakkar123's GitHub | Stats](https://stats.quine.sh/ParamThakkar123/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ParamThakkar123)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 ### ✍️ Random Dev Quote
