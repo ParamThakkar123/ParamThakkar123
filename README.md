@@ -19,12 +19,12 @@
 <a href="https://linkedin.com/in/param-thakkar-413869273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="param-thakkar-413869273" height="30" width="40" /></a>
 <a href="https://kaggle.com/paramthakkarvjtics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paramthakkarvjtics" height="30" width="40" /></a>
 <a href="https://instagram.com/paramthakkar80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paramthakkar80" height="30" width="40" /></a>
-<a href="https://dribbble.com/paramthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="paramthakkar" height="30" width="40" /></a>
+<!-- <a href="https://dribbble.com/paramthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="paramthakkar" height="30" width="40" /></a>
 <a href="https://medium.com/@paramthakkar864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paramthakkar864" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/paramthakkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="paramthakkar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/paramthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="paramthakkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paramthakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paramthakkar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/paramthajfmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paramthajfmq" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/paramthajfmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paramthajfmq" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
