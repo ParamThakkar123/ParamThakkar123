@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Param Thakkar</h1>
-<h3 align="center">A passionate Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramthakkar123&label=Profile%20views&color=0e75b6&style=flat" alt="paramthakkar123" /> </p>
 
